@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\dal_ef\\booklistgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:dal_ef\\booklistgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\models\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:models\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\dal_ef\\categorygateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:dal_ef\\categorygateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\dal_ef\\studentsgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:dal_ef\\studentsgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\views\\students\\updatestudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:views\\students\\updatestudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\migrations\\20241120134329_students-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:migrations\\20241120134329_students-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|c:\\users\\pc\\desktop\\vs\\vsprojects\\library_managment_system\\migrations\\20241118134308_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B05ED-4008-45D7-9264-30BFA9D40E5C}|library_managment_system.csproj|solutionrelative:migrations\\20241118134308_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooklistGateway.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\DAL_EF\\BooklistGateway.cs",
+              "RelativeDocumentMoniker": "DAL_EF\\BooklistGateway.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\DAL_EF\\BooklistGateway.cs",
+              "RelativeToolTip": "DAL_EF\\BooklistGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:24:05.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booklist.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Models\\Booklist.cs",
+              "RelativeDocumentMoniker": "Models\\Booklist.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Models\\Booklist.cs",
+              "RelativeToolTip": "Models\\Booklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:23:41.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T15:01:51.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:00:56.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Students\\UpdateStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\UpdateStudents.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Students\\UpdateStudents.cshtml",
+              "RelativeToolTip": "Views\\Students\\UpdateStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T14:31:00.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAADkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T14:30:33.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsGateway.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\DAL_EF\\StudentsGateway.cs",
+              "RelativeDocumentMoniker": "DAL_EF\\StudentsGateway.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\DAL_EF\\StudentsGateway.cs",
+              "RelativeToolTip": "DAL_EF\\StudentsGateway.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:12:09.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Students.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Models\\Students.cs",
+              "RelativeToolTip": "Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:10:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:04:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryGateway.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\DAL_EF\\CategoryGateway.cs",
+              "RelativeDocumentMoniker": "DAL_EF\\CategoryGateway.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\DAL_EF\\CategoryGateway.cs",
+              "RelativeToolTip": "DAL_EF\\CategoryGateway.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:33:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T13:29:56.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T13:25:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T13:21:23.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241120134329_Students-migration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Migrations\\20241120134329_Students-migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241120134329_Students-migration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Migrations\\20241120134329_Students-migration.cs",
+              "RelativeToolTip": "Migrations\\20241120134329_Students-migration.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:43:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241118134308_initial_migration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Migrations\\20241118134308_initial_migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241118134308_initial_migration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Migrations\\20241118134308_initial_migration.cs",
+              "RelativeToolTip": "Migrations\\20241118134308_initial_migration.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:43:11.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\vs\\VsProjects\\library_managment_system\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:02:27.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
